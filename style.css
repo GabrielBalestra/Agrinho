@@ -25,8 +25,8 @@ body {
     background-size: contain;
     align-items: center;
     text-align: center;
-    margin: 100%;
-    padding: 100%;
+    margin: 50px;
+    padding: 50px;
 }
 
 .container {
