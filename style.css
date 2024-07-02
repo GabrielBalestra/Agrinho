@@ -19,12 +19,7 @@ body {
     font-size: 16px;
     font-weight: 500;
 }
-.principal {
-    background-image: url("imagem.jpg");
-    background-repeat: no-repeat;
-    
-    align-items: center;
-    text-align: center;
+
    
 }
 
