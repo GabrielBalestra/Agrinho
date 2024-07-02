@@ -16,8 +16,8 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 36px;
-    font-weight: 700;
+    font-size: 16px;
+    font-weight: 500;
 }
 .principal {
     background-image: url("imagem.jpg");
@@ -29,7 +29,7 @@ body {
 }
 
 .container {
-     height: 100vh;
+     height: 500vh;
      display: grid;
      grid-template-columns: 50% 50%;
     }
