@@ -26,7 +26,7 @@ body {
 .container {
      height: 100vh;
      display: grid;
-     grid-template-columns: 50% 50%;
+     grid-template-columns: 50% 10%;
     }
     
 
@@ -62,7 +62,7 @@ body {
     margin: 0 10em;
 }
 .descricao__titulo {
-    font-weight: 400;
+    font-weight: 600;
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
